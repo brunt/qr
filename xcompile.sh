@@ -1,0 +1,1 @@
+docker run --rm -v ~/rust/qr:/home/cross/project ubruntu/rust-raspberry:1.25.0

@@ -1,0 +1,8 @@
+[package]
+name = "qr"
+version = "0.1.0"
+authors = ["bryantdeters <bryant.j.deters@centene.com>"]
+
+[dependencies]
+qrcode = "0.6"
+image = "0.18.0"
